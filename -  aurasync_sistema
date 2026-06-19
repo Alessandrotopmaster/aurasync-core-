@@ -1,0 +1,17 @@
+aurasync-core/
+├── .github/workflows/
+│   └── deploy.yml
+├── src/
+│   ├── core/
+│   │   ├── traffic_optimizer.py
+│   │   └── split_payment.py
+│   ├── templates/
+│   ├── bot/
+│   └── main.py
+├── prompts/
+│   ├── video_engine.txt
+│   └── traffic_manager.txt
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── .gitignore
